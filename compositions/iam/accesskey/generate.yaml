@@ -1,0 +1,17 @@
+group: iam.aws.example.cloud
+name: AccessKey
+plural: AccessKeys
+version: v1beta1
+provider:
+  crd:
+    file: iam.aws.crossplane.io_accesskeys.yaml
+    version: v1beta1
+ignore: false
+connectionSecretKeys:
+  - username
+  - password
+patchExternalName: false
+compositions:
+  - name: accesskey
+    provider: example
+    default: true
