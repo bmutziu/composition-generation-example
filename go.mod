@@ -9,7 +9,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/crossplane-contrib/x-generation v0.5.1-0.20230530110033-fe07bac62191 // indirect
+	github.com/crossplane-contrib/x-generation v0.8.0 // indirect
 	github.com/crossplane/crossplane v1.10.1 // indirect
 	github.com/crossplane/crossplane-runtime v0.19.0-rc.0.0.20221012013934-bce61005a175 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect

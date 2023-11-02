@@ -1,0 +1,14 @@
+group: s3.aws.example.cloud
+name: Bucket
+version: v1alpha1
+provider:
+  name: provider-aws
+  version: v0.44.2
+  crd:
+    file: s3.aws.crossplane.io_buckets.yaml
+    version: v1beta1
+ignore: false
+compositions:
+  - name: bucket
+    provider: example
+    default: true

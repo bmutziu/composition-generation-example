@@ -55,7 +55,7 @@ all: pre generate crds
 
 pre:
 	@$(INFO) pre install
-	@go get github.com/crossplane-contrib/x-generation/pkg
+	@go get github.com/crossplane-contrib/x-generation/pkg@v0.8.0
 	@$(OK) pre install
 
 generate:

@@ -1,8 +1,0 @@
----
-apiVersion: meta.pkg.crossplane.io/v1
-kind: Configuration
-metadata:
-  name: compositions
-spec:
-  crossplane:
-    version: ">=v1.11.1-up.1"

@@ -86,6 +86,8 @@ github.com/cncf/xds/go v0.0.0-20211011173535-cb28da3451f1/go.mod h1:eXthEFrGJvWH
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/crossplane-contrib/x-generation v0.5.1-0.20230530110033-fe07bac62191 h1:YiI/Ru4lWAc/bq7sIdku/HeqCqz1f91bEjXJTSuPcqc=
 github.com/crossplane-contrib/x-generation v0.5.1-0.20230530110033-fe07bac62191/go.mod h1:draVyuiAoffruzChH0ejXaoRifuitQP4YFy5XfEBWrM=
+github.com/crossplane-contrib/x-generation v0.8.0 h1:M9mKFvPIeDRKBgmSpbBfp8/EZR/Hue1AZeonrgvqZFo=
+github.com/crossplane-contrib/x-generation v0.8.0/go.mod h1:draVyuiAoffruzChH0ejXaoRifuitQP4YFy5XfEBWrM=
 github.com/crossplane/crossplane v1.10.1 h1:4dhyMCQayqPJTfQ3+lRSpdUqX9gJIJQM56xRj7g0ljw=
 github.com/crossplane/crossplane v1.10.1/go.mod h1:a90wo/wkTDHhh8artgsUiLtQu5DIYwA7biHPDoMssms=
 github.com/crossplane/crossplane-runtime v0.19.0-rc.0.0.20221012013934-bce61005a175 h1:qGLew6IazCwfgvY4/xh5lQiumip/WrULpQfW4duol6g=
